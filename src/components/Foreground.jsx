@@ -1,6 +1,7 @@
 import React, { useRef } from 'react'
 import Card from './Card'
-import Toastify from './toastify'
+import Toastify from './Toastify'
+import { toast } from "react-toastify";
 
 const Foreground = () => {
 
